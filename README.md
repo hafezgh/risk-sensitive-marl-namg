@@ -1,6 +1,7 @@
 Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games (AAMAS 2024)
 
 
-arXiv (full version):
+arXiv (complete version):
 
-TODO
+
+Authors: [Hafez Ghaemi](https://scholar.google.com/citations?user=JCLX6oYAAAAJ&hl=en), [Hamed Kebriaei](https://scholar.google.com/citations?user=eDseLNYAAAAJ&hl=en), [Alireza Ramezaney Moghadam](https://scholar.google.com/citations?user=75ic5loAAAAJ&hl=en), [Majid Nili Ahmadabadi](https://scholar.google.com/citations?user=QlwWxmoAAAAJ&hl=en)
