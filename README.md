@@ -1,5 +1,8 @@
 Risk-Sensitive Multi-Agent Reinforcement Learning in Network Aggregative Markov Games (AAMAS 2024)
 
+In conference proceedings: https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2282.pdf
+
+In ACM Digital Library: https://dl.acm.org/doi/10.5555/3635637.3663134
 
 arXiv (complete version): https://arxiv.org/abs/2402.05906
 
