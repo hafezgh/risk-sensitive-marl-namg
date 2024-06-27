@@ -4,7 +4,7 @@ In conference proceedings: https://www.ifaamas.org/Proceedings/aamas2024/pdfs/p2
 
 In ACM Digital Library: https://dl.acm.org/doi/10.5555/3635637.3663134
 
-arXiv (complete version): https://arxiv.org/abs/2402.05906
+On arXiv (complete version): https://arxiv.org/abs/2402.05906
 
 [AAMAS 2024 Poster](https://github.com/hafezgh/risk-sensitive-marl-namg/blob/main/Poster_RSMARL_AAMAS2024.pdf)
 
